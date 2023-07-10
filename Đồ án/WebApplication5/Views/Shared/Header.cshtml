@@ -1,0 +1,76 @@
+﻿<!-- Page Preloder -->
+<div id="preloder">
+    <div class=""></div>
+</div>
+
+
+
+<!-- Humberger End -->
+<header class="header">
+    <div class="header__top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="header__top__left">
+                        <ul>
+                            <li><i class="fa fa-envelope"></i> @Session["client"] </li>
+                            <li>Miễn ship bán kính 1km</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="header__top__right">
+                      
+                        
+                        <div class="header__top__right__auth">
+                            @if (Session["client"] != null)
+                            {
+                                <a><p style="color:black;margin-top:15px;">Hello @Session["client"]</p></a>
+                                <a>@Html.ActionLink("Thoát", "Logout", "KHACH")</a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("DangNhap", "KHACH")"><i class="fa fa-user"></i>Đăng nhập</a>
+                            <a href="@Url.Action("DangKy", "KHACH")"><i class="fa fa-user"></i>Đăng Ký</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="header__logo">
+                    <a href="/">
+                        <img src="~/Content/img/logo1.png" width="150" height="150" />
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <nav class="header__menu">
+                    <ul>
+                        <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                        <li>@Html.ActionLink("Sản phẩm", "ShowProduct", "Home")</li>
+                        @*<li>@Html.ActionLink("Detail", "Detail/4", "Home")</li> *@
+                        <li>@Html.ActionLink("Giỏ hàng", "showToCart", "Cart")</li>
+                        <li>@Html.ActionLink("Đơn hàng", "showCheckout", "Cart")</li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-lg-3">
+                <div class="header__cart">
+                    <ul>
+                        <li><a href="/Cart/ShowToCart"><i class="fa fa-shopping-bag"></i> @Html.Action("bagCart", "Cart") </a></li>
+                    </ul>
+                    <div class="header__cart__price">Thành Tiền: <span>@Html.Action("total_money", "Cart")</span></div>
+                </div>
+            </div>
+        </div>
+        <div class="humberger__open">
+            <i class="fa fa-bars"></i>
+        </div>
+    </div>
+</header>
+

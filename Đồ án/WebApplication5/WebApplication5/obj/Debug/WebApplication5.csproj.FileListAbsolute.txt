@@ -1,0 +1,165 @@
+D:\New folder (8)\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+D:\New folder (8)\WebApplication5\WebApplication5\bin\WebApplication5.dll
+D:\New folder (8)\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+D:\New folder (8)\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+D:\New folder (8)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+D:\New folder (8)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+D:\New folder (8)\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (8)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.AssemblyReference.cache
+D:\New folder (8)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+D:\New folder (8)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+D:\Tài liệu học\Môn lập trình WEB\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.AssemblyReference.cache
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.AssemblyReference.cache
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+D:\tai lieu thi\web\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\Administrator\Downloads\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.AssemblyReference.cache
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+D:\Tài liệu học\Môn lập trình WEB\Đồ án cuối kì\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.AssemblyReference.cache
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+D:\tai lieu thi\New folder (6)\WebApplication5\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+E:\LuuDuLieuSinhVien\NguyenAnhTuan_2001203028\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\WebApplication5.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Webpages.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Webpages.xml
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Deployment.xml
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Webpages.Razor.xml
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.AssemblyReference.cache
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+D:\tai lieu thi\New folder (5)\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Minh Huy\Downloads\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Minh Huy\Downloads\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\Minh Huy\Downloads\WebApplication5\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb

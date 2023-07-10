@@ -1,0 +1,12 @@
+﻿@using WebApplication5.Models
+@model List<Loai>
+
+<ul class="list-group list-group-flush text-left">
+    <li class="list-group-item" style="background-color: deepskyblue;"><a href="#" style="text-transform:uppercase; text-decoration:none; color:black; font-weight:bold;">Lap Top</a></li>
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item"><a href="@Url.Action("SanPhamTheoLoai","LapTop", new {@maLoai = item.MaLoai})" style=" text-transform:uppercase; text-decoration:none;">@item.TenLoai</a></li>
+
+    }
+
+</ul>

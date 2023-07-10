@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "TrangChu";
+    Layout = "~/Views/Shared/UserLayoutTest.cshtml";
+}
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+
+        <div class="col-4">
+            <center>
+                <div>
+                    <img src="@Url.Content("~/image/"+item.AnhBia)" width="300px" height="250px" alt="Image" />
+                </div>
+                <div>
+                    @if (item.TenSP.Length > 50)
+                    {
+                        <p>
+                            <strong title="@item.TenSP">@item.TenSP.Substring(0, 50)...</strong><br />
+
+
+                            <a href="@Url.Action("XemChiTiet",new{ @ms=item.MaSP})">Xem chi tiết</a>
+                        </p>
+                        <div class="clear"></div>
+                    }
+                    else
+                    {
+                        <p style="text-align:center">
+                            <strong>@item.TenSP</strong><br />
+                            <strong style="font-weight:bold;color:red">Giá: @string.Format("{0:0,0}", item.GiaBan) VNĐ</strong>
+                            <br />
+                            <a href="@Url.Action("XemChiTiet",new{@ms=item.MaSP})">Xem chi tiết</a>
+                        </p>
+                    }
+                </div>
+            </center>
+
+        </div>
+
+    }
+
+</div>

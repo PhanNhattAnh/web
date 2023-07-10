@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "XemChiTietTT";
+    Layout = "~/Views/Shared/UserLayoutTest.cshtml";
+}
+
+<h2>Nội Dung Chi Tiết</h2>
+
+
+
+<div class="card border-white">
+    <table class="border-white mx-3 mb-3 mt-3">
+        <tr class="text-left">
+            <td rowspan="5" width="45%">
+                <img class="card-header" src="@Url.Content("~/image/" + Model.AnhMH)" width="100%" , height="100%" , alt="Image fail" />
+            </td>
+            <td width="20%"> Tiêu đề: </td>
+            <td width="35%" style="font-weight: bold; color: blue;"> @Model.TieuDe</td>
+        </tr>
+        <tr class="text-left">
+            <td>Nội dung: </td>
+            <td style="">@Model.NoiDung</td>
+        </tr>
+        @*<tr class="text-left">
+                <td>Ngày đăng: </td>
+                <td class="text-justify" style="color: red">@Model.NgayDang</td>
+            </tr>*@
+    </table>
+</div>

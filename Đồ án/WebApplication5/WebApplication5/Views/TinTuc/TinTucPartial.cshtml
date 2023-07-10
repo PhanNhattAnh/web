@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "TinTucPartial";
+    Layout = "~/Views/Shared/UserLayoutTest.cshtml";
+}
+
+<h2>Tin Tức</h2>
+
+@foreach (var item in Model)
+{
+    <article class="entry entry-list">
+        <div class="row align-items">
+            <div class="col-md-3">
+                <figure class="entry-media">
+                    <img src="@Url.Content("~/image/"+item.AnhMH)" width="250px" height="200px" alt="Image" />
+                </figure>
+            </div>
+
+            <div class="col-md-7">
+                <div class="entry-body">
+
+                    <div class="entry-content">
+                        <a href="@Url.Action("XemChiTietTT",new{@ms=item.MaTT})" style=" text-align:left; color:black; text-transform:uppercase; text-decoration:none;"><strong title="@item.TieuDe">@item.TieuDe</strong></a>
+                        @if (item.NoiDung.Length > 350)
+                        {
+
+                                
+                                <div style="text-align:left">@item.NoiDung.Substring(0,350)...</div>
+                        }
+                        </div>
+
+                </div>
+            </div>
+        </div>
+    </article>
+}
+
+

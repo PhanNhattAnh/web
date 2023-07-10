@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "SanPhamTheoLoai";
+    Layout = "~/Views/Shared/UserLayoutTest.cshtml";
+}
+
+<h2>SanPhamTheoLoai</h2>
+@ViewBag.ThongBao
+<div class="row">
+    @{
+        foreach (var item in Model)
+        {
+            <div class="col-3">
+                <img src="@Url.Content("~/image/" + item.AnhBia) " width="70%" , height="70%" , alt="Image fail" />
+                <p style="margin-bottom: 0px"><a href="#" style="color: black"><strong title="@item.TenSP">Tên sản phẩm: @item.TenSP</strong></a></p>
+                <a href="@Url.Action("XemChiTiet","LapTop", new {@MS = item.MaSP})" style="text-decoration:none; margin-top: 0px"> Xem chi tiết</a>
+
+            </div>
+        }
+    }
+</div>
